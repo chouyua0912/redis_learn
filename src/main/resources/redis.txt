@@ -1,0 +1,3 @@
+redis-cli
+set testkey abc
+get testkey
